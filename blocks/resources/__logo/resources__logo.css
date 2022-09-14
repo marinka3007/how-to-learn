@@ -5,6 +5,4 @@
   transition: opacity 1.5s ease-in-out;
 }
 
-.resources__logo:hover {
-  opacity: .7;
-}
+
