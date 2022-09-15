@@ -1,8 +1,11 @@
-.resourses__link {
+.resources__link {
   width: 270px;
   height: 38px;
+  opacity: 1;
+  transition: opacity 1.5s ease-in-out;
 }
 
-.resources__logo:hover {
+.resources__link:hover {
   opacity: .7;
 }
+
